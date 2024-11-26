@@ -1,2 +1,2 @@
-# ThreeDim-ODData-Visualization
- Mapbox.GL.JS+Deck.gl
+# 三维轨迹可视化
+ 本项目以Mapbox为底图，结合Mapbox.GL.JS与Deck.gl,采用形状-色调-透明度等可视化变量，展现城市-区县层级的空间流动特征。
